@@ -1,7 +1,10 @@
 saw hacker 
  tlelgram @sawx1877
- 1 
- 2
- 3
- 4
- 
+ 1 TOKEN
+ 2 go 3
+ 3 id facebook
+ 4 name qwertyuiopasdfgjjklzxcvbnm ✅
+ 5 90000000 ✅
+ 6 Copy
+ 7 go 2 
+ 8 1 go 1
