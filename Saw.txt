@@ -5,6 +5,6 @@ saw hacker
  3 id facebook
  4 name qwertyuiopasdfgjjklzxcvbnm ✅
  5 90000000 ✅
- 6 Copy
+ 6 Copy qwertyuiopasdfgjjklzxcvbnm ✅
  7 go 2 
  8 1 go 1
